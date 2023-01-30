@@ -1,0 +1,9 @@
+C:\Users\fernando.rincon\C#\Aula2\EstruturaRepeticao\bin\Debug\netcoreapp1.1\EstruturaRepeticao.deps.json
+C:\Users\fernando.rincon\C#\Aula2\EstruturaRepeticao\bin\Debug\netcoreapp1.1\EstruturaRepeticao.runtimeconfig.json
+C:\Users\fernando.rincon\C#\Aula2\EstruturaRepeticao\bin\Debug\netcoreapp1.1\EstruturaRepeticao.runtimeconfig.dev.json
+C:\Users\fernando.rincon\C#\Aula2\EstruturaRepeticao\bin\Debug\netcoreapp1.1\EstruturaRepeticao.dll
+C:\Users\fernando.rincon\C#\Aula2\EstruturaRepeticao\bin\Debug\netcoreapp1.1\EstruturaRepeticao.pdb
+C:\Users\fernando.rincon\C#\Aula2\EstruturaRepeticao\obj\Debug\netcoreapp1.1\EstruturaRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\fernando.rincon\C#\Aula2\EstruturaRepeticao\obj\Debug\netcoreapp1.1\EstruturaRepeticao.AssemblyInfo.cs
+C:\Users\fernando.rincon\C#\Aula2\EstruturaRepeticao\obj\Debug\netcoreapp1.1\EstruturaRepeticao.dll
+C:\Users\fernando.rincon\C#\Aula2\EstruturaRepeticao\obj\Debug\netcoreapp1.1\EstruturaRepeticao.pdb

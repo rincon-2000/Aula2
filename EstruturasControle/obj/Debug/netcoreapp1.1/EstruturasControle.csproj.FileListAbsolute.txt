@@ -1,0 +1,10 @@
+C:\Users\fernando.rincon\C#\Aula2\EstruturasControle\bin\Debug\netcoreapp1.1\EstruturasControle.deps.json
+C:\Users\fernando.rincon\C#\Aula2\EstruturasControle\bin\Debug\netcoreapp1.1\EstruturasControle.runtimeconfig.json
+C:\Users\fernando.rincon\C#\Aula2\EstruturasControle\bin\Debug\netcoreapp1.1\EstruturasControle.runtimeconfig.dev.json
+C:\Users\fernando.rincon\C#\Aula2\EstruturasControle\bin\Debug\netcoreapp1.1\EstruturasControle.dll
+C:\Users\fernando.rincon\C#\Aula2\EstruturasControle\bin\Debug\netcoreapp1.1\EstruturasControle.pdb
+C:\Users\fernando.rincon\C#\Aula2\EstruturasControle\obj\Debug\netcoreapp1.1\EstruturasControle.csprojAssemblyReference.cache
+C:\Users\fernando.rincon\C#\Aula2\EstruturasControle\obj\Debug\netcoreapp1.1\EstruturasControle.csproj.CoreCompileInputs.cache
+C:\Users\fernando.rincon\C#\Aula2\EstruturasControle\obj\Debug\netcoreapp1.1\EstruturasControle.AssemblyInfo.cs
+C:\Users\fernando.rincon\C#\Aula2\EstruturasControle\obj\Debug\netcoreapp1.1\EstruturasControle.dll
+C:\Users\fernando.rincon\C#\Aula2\EstruturasControle\obj\Debug\netcoreapp1.1\EstruturasControle.pdb

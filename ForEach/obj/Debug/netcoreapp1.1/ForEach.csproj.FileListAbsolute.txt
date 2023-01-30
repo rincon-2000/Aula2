@@ -1,0 +1,10 @@
+C:\Users\fernando.rincon\C#\Aula2\ForEach\bin\Debug\netcoreapp1.1\ForEach.deps.json
+C:\Users\fernando.rincon\C#\Aula2\ForEach\bin\Debug\netcoreapp1.1\ForEach.runtimeconfig.json
+C:\Users\fernando.rincon\C#\Aula2\ForEach\bin\Debug\netcoreapp1.1\ForEach.runtimeconfig.dev.json
+C:\Users\fernando.rincon\C#\Aula2\ForEach\bin\Debug\netcoreapp1.1\ForEach.dll
+C:\Users\fernando.rincon\C#\Aula2\ForEach\bin\Debug\netcoreapp1.1\ForEach.pdb
+C:\Users\fernando.rincon\C#\Aula2\ForEach\obj\Debug\netcoreapp1.1\ForEach.csprojAssemblyReference.cache
+C:\Users\fernando.rincon\C#\Aula2\ForEach\obj\Debug\netcoreapp1.1\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\fernando.rincon\C#\Aula2\ForEach\obj\Debug\netcoreapp1.1\ForEach.AssemblyInfo.cs
+C:\Users\fernando.rincon\C#\Aula2\ForEach\obj\Debug\netcoreapp1.1\ForEach.dll
+C:\Users\fernando.rincon\C#\Aula2\ForEach\obj\Debug\netcoreapp1.1\ForEach.pdb
